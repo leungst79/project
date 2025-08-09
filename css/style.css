@@ -1,0 +1,30 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 115%;
+}
+header{
+    background-color:#edbbdc;
+}
+nav{
+    background-color:#ead6fd;
+}
+main{
+    background-color:#fadaeb;
+    font-size: 100%;
+}
+footer{
+    background-color:#faeee0;
+    font-size: 90%;
+}
+li{
+    display:inline-block;
+    width: 200px;
+}
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #562846;
+}
+p{
+    line-height: 1.5;
+}
